@@ -1,5 +1,16 @@
 to access this whatsAPP clone  -> https://whats-app-clone-7b600.web.app/
 
+Tech Used ->
+
+//React
+//Firebase realtime db
+//Material UI
+// Router React
+// React context API
+// ^^^ Redux
+// google Authentication
+// Deploy using firebase!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
